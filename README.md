@@ -1,14 +1,15 @@
-# Support-Vector-Machine-Example
+## Support-Vector-Machine-Example
 SVM Algorithm example about given wine dataset.
 
-## Python Version 3.7.2
+#### Used Python Version
+- 3.7.2
 
-## Requirements
+#### Requirements
 
--pandas
--numpy
--matplotlib
--sklearn
+- pandas
+- numpy
+- matplotlib
+- sklearn
 
 
 
