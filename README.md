@@ -11,6 +11,13 @@ SVM Algorithm example about given wine dataset.
 - matplotlib
 - sklearn
 
+#### Install Requirements
+`pip install -r requirements.txt`
+
+#### Run Script
+`python svm.py`
+
+
 ##### More Information
 - https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
 
