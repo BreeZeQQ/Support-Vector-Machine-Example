@@ -1,4 +1,4 @@
-## Support-Vector-Machine-Example
+## Support Vector Machine Example
 SVM Algorithm example about given wine dataset.
 
 #### Used Python Version
@@ -11,5 +11,6 @@ SVM Algorithm example about given wine dataset.
 - matplotlib
 - sklearn
 
-
+##### More Information
+- https://stackabuse.com/implementing-svm-and-kernel-svm-with-pythons-scikit-learn/
 
